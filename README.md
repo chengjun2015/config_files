@@ -1,2 +1,2 @@
-# config_files
-## config files
+# config-files
+Spring Cloud External Configuration Repository
